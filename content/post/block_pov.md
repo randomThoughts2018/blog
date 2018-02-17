@@ -7,6 +7,8 @@ draft: false
 
 # Introduction 
 
+> *[Jeanpierre Rupp](https://medium.com/@xenog/) and I wrote this in 2015, but surprisingly it still is true.*
+
 There is a hype wave flowing through the financial world around blockchain. It is touted as the most important innovation in finance since the invention of fiat money. It promises to bring huge benefits, reduce costs, and allow banks to become as nimble and lean as Silicon Valley startups. Everybody is buying into the hype. Central banks, big banks, small banks and financial startups all drool over the possibilities. Either you are in or you’re not cool. This document falls squarely in the latter category.
 
 We will here explain some of the reasons why blockchain is actually just a tech bubble waiting to burst, and why the challenges to implement blockchain technology more often than not overwhelm the benefits that they bring. Most of the optimism around blockchain is likely to be unjustified, and we intend to start an exercise of thoughtful reflection that will lead to insight and better decisions free of hype.
