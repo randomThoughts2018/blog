@@ -1,0 +1,4 @@
+[submodule "public"]
+    path = public
+    url = https://github.com/randomThoughts2018/randomThoughts2018.github.io.git
+    branch = master
