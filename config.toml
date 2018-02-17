@@ -106,7 +106,6 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
 
   [params.social]                                         # 社交链接
     a-email = "mailto:dailymailsvicky@gmail.com"
-    c-twitter = "https://twitter.com/viiitdmj"
     e-linkedin = "https://www.linkedin.com/in/vineetsinghcs/"
     g-github = "https://github.com/randomThoughts2018"
     
