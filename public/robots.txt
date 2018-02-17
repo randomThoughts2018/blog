@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://randomThoughts2018.github.io/sitemap.xml
