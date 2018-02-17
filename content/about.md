@@ -10,15 +10,4 @@ comment: false
 mathjax: false
 ---
 
-Hugo is a static site engine written in Go.
-
-
-It makes use of a variety of open source projects including:
-
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
-
+I am Vineet Singh, computer scientist by training and software developer by profession. I work in field of cryptocurrencies e.g. Bitcoin. I work with Citi Innovation Labs, here in Dublin. At Citi, I am part of a team that provides actionable strategic directions in financial technology space to Citi Execs. I am also part of the Blockchain engineering team. When I am not fixing solidity smart contract bugs, I train neural networks on structured real world data.
