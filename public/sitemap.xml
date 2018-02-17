@@ -3,7 +3,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://randomThoughts2018.github.io/post/block_pov/</loc>
+    <lastmod>2018-02-15T18:48:37+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://randomThoughts2018.github.io/categories/blockchain/</loc>
+    <lastmod>2018-02-15T18:48:37+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://randomThoughts2018.github.io/categories/</loc>
+    <lastmod>2018-02-15T18:48:37+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://randomThoughts2018.github.io/categories/innovation/</loc>
+    <lastmod>2018-02-15T18:48:37+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://randomThoughts2018.github.io/post/</loc>
+    <lastmod>2018-02-15T18:48:37+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -16,6 +45,7 @@
   
   <url>
     <loc>https://randomThoughts2018.github.io/</loc>
+    <lastmod>2018-02-15T18:48:37+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
