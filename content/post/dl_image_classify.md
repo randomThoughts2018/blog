@@ -4,6 +4,8 @@ date: 2018-02-17T20:17:03Z
 categories: ["deep-learning", "image-analysis"]
 draft: true
 ---
+> * https://www.kaggle.com/c/data-science-bowl-2018/data
+
 
 ## Introduction 
 
